@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-vdemedes",
+  "version": "1.0.0",
+  "description": "xo config by @vdemedes",
+  "main": "index.json",
+  "repository": "vdemedes/eslint-config-vdemedes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xo"
+  ],
+  "author": "Vadim Demedes <vdemedes@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "index.json"
+  ]
+}

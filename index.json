@@ -1,0 +1,21 @@
+{
+  "rules": {
+    "no-multiple-empty-lines": 0,
+    "space-before-function-paren": 0,
+    "object-curly-spacing": [
+      2,
+      "always"
+    ],
+    "generator-star-spacing": [
+    	2,
+    	{
+    		"before": true,
+    		"after": true
+    	}
+    ],
+    "consistent-return": 1,
+    "quote-props": 0,
+    "global-require": 1,
+    "no-implicit-coercion": 1
+  }
+}

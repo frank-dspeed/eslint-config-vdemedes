@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vdemedes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "xo config by @vdemedes",
   "main": "index.json",
   "repository": "vdemedes/eslint-config-vdemedes",

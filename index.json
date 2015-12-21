@@ -6,16 +6,23 @@
       2,
       "always"
     ],
+    "babel/object-curly-spacing": [
+      2,
+      "always"
+    ],
     "generator-star-spacing": [
-    	2,
-    	{
-    		"before": true,
-    		"after": true
-    	}
+      2,
+      {
+        "before": true,
+        "after": true
+      }
     ],
     "consistent-return": 1,
     "quote-props": 0,
     "global-require": 1,
-    "no-implicit-coercion": 1
+    "no-implicit-coercion": 1,
+    "prefer-const": 0,
+    "prefer-reflect": 0,
+    "prefer-template": 0
   }
 }

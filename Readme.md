@@ -1,6 +1,6 @@
 # eslint-config-vdemedes
 
-My personal customizations to default [xo](https://github.com/sindresorhus/xo) rules.
+My personal customizations to default [XO](https://github.com/sindresorhus/xo) rules.
 
 
 ### Installation
@@ -16,11 +16,11 @@ in **package.json**:
 
 ```
 "xo": {
-	"extends": "eslint-config-vdemedes"
+	"extends": "vdemedes"
 }
 ```
 
 
 ### License
 
-MIT @ [Vadym Demedes](https://github.com/vdemedes).
+MIT @ [Vadim Demedes](https://github.com/vdemedes).

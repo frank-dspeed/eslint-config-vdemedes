@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-vdemedes",
-  "version": "1.0.1",
-  "description": "xo config by @vdemedes",
+  "version": "1.0.2",
+  "description": "XO config of @vdemedes",
   "main": "index.json",
   "repository": "vdemedes/eslint-config-vdemedes",
   "scripts": {

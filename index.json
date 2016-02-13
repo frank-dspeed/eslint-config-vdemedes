@@ -10,7 +10,6 @@
       2,
       "always"
     ],
-    "consistent-return": 1,
     "quote-props": 0,
     "no-implicit-coercion": 1,
     "prefer-const": 0,
